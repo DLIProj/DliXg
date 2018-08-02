@@ -44,19 +44,7 @@ people:
       url: https://twitter.com/adarshb82 
 
       
-- name: Shesna PA
-  pic: 4
-  position: Technical Communicator
-  social:
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/shesna-p-a-2550249a
-    - title: google-plus
-      url: https://plus.google.com/109179778173955208466
-    - title: facebook
-      url: https://www.facebook.com/shezna.pa
-    - title: twitter 
-      url: https://twitter.com/Shezna_pa?s=09
+
 
 # Postal address (add as many lines as necessary)
 address:
