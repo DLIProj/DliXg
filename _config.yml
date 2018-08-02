@@ -20,8 +20,19 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Adarsh B
+- name: Nithin Bhasker
   pic: 2
+  position: System Administrator
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+      
+- name: Adarsh B
+  pic: 3
   position: Lead, Documentation Engineer
   social:
     - title: twitter
@@ -30,9 +41,9 @@ people:
       url: #
     - title: linkedin
       url: #
-
+      
 - name: Shesna PA
-  pic: 3
+  pic: 4
   position: Sr. Tech Writer
   social:
     - title: twitter
