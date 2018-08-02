@@ -55,19 +55,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/shesna-p-a-2550249a
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-    - title: twitter
-      url: https://twitter.com/adarshb82
-    - title: facebook
-      url: https://www.facebook.com/adarsh.master
-    - title: linkedin
-      url: #
-    - title: google-plus
-      url: https://plus.google.com/+AdarshBalachandran
-    - title: github
-      url: https://github.com/DLIProj
-
 # Postal address (add as many lines as necessary)
 address:
   - line: Sarada Mandiram, Calicut
