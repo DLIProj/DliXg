@@ -13,8 +13,9 @@ people:
   pic: 2
   position: System Admin, Microsoft Certified Solutions Expert
   social:
+  social:
     - title: linkedin
-      url: https://www.linkedin.com/in/nithin-bhasker-130460148 
+      url: https://www.linkedin.com/in/nithin-bhasker-130460148
     - title: facebook
       url: https://www.facebook.com/nithinbhasker
       
@@ -46,14 +47,15 @@ people:
   pic: 4
   position: Technical Communicator
   social:
-    - title: twitter
-      url: https://twitter.com/Shezna_pa
-    - title: facebook
-      url: https://www.facebook.com/shezna.pa
-    - title: google-plus
-      url: https://plus.google.com/109179778173955208466
+  social:
     - title: linkedin
       url: https://www.linkedin.com/in/shesna-p-a-2550249a
+    - title: google-plus
+      url: https://plus.google.com/109179778173955208466
+    - title: facebook
+      url: https://www.facebook.com/shezna.pa
+   - title: twitter
+      url: https://twitter.com/Shezna_pa
 
 # Postal address (add as many lines as necessary)
 address:
