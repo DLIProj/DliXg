@@ -13,12 +13,10 @@ people:
   pic: 2
   position: System Admin, Microsoft Certified Solutions Expert
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/nithinbhasker
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/nithin-bhasker-130460148 
       
 - name: Akhil Pradeep
   pic: 1
@@ -34,14 +32,14 @@ people:
   pic: 3
   position: Technical Communicator
   social:
-    - title: twitter
-      url: https://twitter.com/adarshb82
-    - title: facebook
-      url: https://www.facebook.com/adarsh.master
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/adarshbalachandran
     - title: google-plus
       url: https://plus.google.com/+AdarshBalachandran
+    - title: facebook
+      url: https://www.facebook.com/adarsh.master
+   - title: twitter
+      url: https://twitter.com/adarshb82
 
       
 - name: Shesna PA
@@ -49,11 +47,13 @@ people:
   position: Technical Communicator
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/Shezna_pa
     - title: facebook
-      url: #
+      url: https://www.facebook.com/shezna.pa
     - title: google-plus
-      url: #
+      url: https://plus.google.com/109179778173955208466
+    - title: linkedin
+      url: https://www.linkedin.com/in/shesna-p-a-2550249a
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
