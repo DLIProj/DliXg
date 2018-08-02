@@ -9,17 +9,6 @@ description: "With a blend of creativity, innovation, strategy, and craft, we he
 
 # Team names, titles and social links
 people:
-- name: Akhil Pradeep
-  pic: 1
-  position: Graphic Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
 - name: Nithin Bhasker 
   pic: 2
   position: System Admin, Microsoft Certified Solutions Expert
@@ -31,6 +20,16 @@ people:
     - title: linkedin
       url: #
       
+- name: Akhil Pradeep
+  pic: 1
+  position: Graphic Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #      
 - name: Adarsh B
   pic: 3
   position: Lead Documentation Engineer
