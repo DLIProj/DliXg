@@ -10,7 +10,7 @@ description: "With a blend of creativity, innovation, strategy, and craft, we he
 # Team names, titles and social links
 people:
 - name: Nithin Bhasker 
-  pic: 2
+  pic: 1
   position: System Admin, Microsoft Certified Solutions Expert
   social:
   social:
@@ -19,8 +19,9 @@ people:
     - title: facebook
       url: https://www.facebook.com/nithinbhasker
       
+      
 - name: Akhil Pradeep
-  pic: 1
+  pic: 2
   position: Graphic Designer
   social:
     - title: twitter
@@ -55,7 +56,7 @@ people:
     - title: facebook
       url: https://www.facebook.com/shezna.pa
    - title: twitter 
-      url: https://twitter.com/adarshb82
+      url: https://twitter.com/Shezna_pa?s=09
 
 # Postal address (add as many lines as necessary)
 address:
