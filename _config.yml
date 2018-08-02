@@ -13,10 +13,10 @@ people:
   pic: 2
   position: System Admin, Microsoft Certified Solutions Expert
   social:
-    - title: facebook
-      url: https://www.facebook.com/nithinbhasker
     - title: linkedin
       url: https://www.linkedin.com/in/nithin-bhasker-130460148 
+    - title: facebook
+      url: https://www.facebook.com/nithinbhasker
       
 - name: Akhil Pradeep
   pic: 1
