@@ -3,7 +3,7 @@
 
 # Site settings
 title: The Expert Group (DLI)
-email: akhilprkp11@gmail.com
+email: adarshbm11@gmail.com
 description: "With a blend of creativity, innovation, strategy, and craft, we help you solve business problems."
 
 
@@ -29,7 +29,8 @@ people:
     - title: facebook
       url: #
     - title: stack-overflow
-      url: #      
+      url: #
+      
 - name: Adarsh B
   pic: 3
   position: Lead Documentation Engineer
